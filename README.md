@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there Welcome to my profile! 🔭 👋
+🌱 I'm a fullstack web developer based in Vancouver Canada.
+😄 I go by Josh or Joshua. 
+⚡ At the moment most of my work isn't opened sourced, although I plan to release some innovative ideas soon.
+
+📫 https://joshwakelin.dev
+
 
 <img src = "https://github-readme-stats.vercel.app/api?username=joshuawakelin&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <!--
