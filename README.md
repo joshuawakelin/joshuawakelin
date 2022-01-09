@@ -1,7 +1,5 @@
 ### Hi there Welcome to my profile! 🔭 👋
-🌱 I'm a fullstack web developer based in Vancouver Canada.
-😄 I go by Josh or Joshua. 
-⚡ At the moment most of my work isn't opened sourced, although I plan to release some innovative ideas soon.
+🌱 I'm a fullstack web developer based in Vancouver Canada. At the moment most of my work isn't opened sourced, although I plan to release some innovative ideas soon.
 
 📫 https://joshwakelin.dev
 
